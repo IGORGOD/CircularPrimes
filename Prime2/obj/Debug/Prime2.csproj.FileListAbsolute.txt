@@ -1,0 +1,6 @@
+D:\Prime2\Prime2\bin\Debug\Prime2.exe.config
+D:\Prime2\Prime2\bin\Debug\Prime2.exe
+D:\Prime2\Prime2\bin\Debug\Prime2.pdb
+D:\Prime2\Prime2\obj\Debug\Prime2.csprojResolveAssemblyReference.cache
+D:\Prime2\Prime2\obj\Debug\Prime2.exe
+D:\Prime2\Prime2\obj\Debug\Prime2.pdb
